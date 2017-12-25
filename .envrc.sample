@@ -1,0 +1,3 @@
+# sample for direnv
+TF_VAR_heroku_email=test@example.com
+TF_VAR_heroku_api_key=hogehoge
